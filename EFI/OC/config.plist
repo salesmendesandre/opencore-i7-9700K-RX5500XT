@@ -534,7 +534,7 @@
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Auto</string>
+			<string>Modern</string>
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
@@ -937,6 +937,8 @@
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
+			<key>MaxBIOSVersion</key>
+			<false/>
 			<key>MLB</key>
 			<string>C029151004NLNV98C</string>
 			<key>ProcessorType</key>
@@ -1007,7 +1009,6 @@
 			<string>OpenRuntime.efi</string>
 			<string>OpenCanopy.efi</string>
 			<string>OpenUsbKbDxe.efi</string>
-			<string>MemoryAllocation.efi</string>
 		</array>
 		<key>Input</key>
 		<dict>
